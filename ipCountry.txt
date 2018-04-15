@@ -1,0 +1,129 @@
+85.132.9.225    # AZ Azerbaijan                    
+109.175.50.140  # BA Bosnia and Herzegowina        
+115.127.5.9     # BD Bangladesh                    
+170.245.176.2   # BR Brazil                        
+177.23.95.135   # BR Brazil                        
+191.254.13.73   # BR Brazil                        
+200.232.227.88  # BR Brazil                        
+216.137.99.165  # CA Canada                        
+158.69.108.225  # CA Canada                        
+198.20.164.122  # CA Canada                        
+191.101.167.26  # CL Chile                         
+200.68.30.206   # CL Chile                         
+181.214.87.247  # CL Chile                         
+191.101.167.73  # CL Chile                         
+190.96.76.50    # CL Chile                         
+119.29.18.186   # CN China                         
+111.121.193.209 # CN China                         
+61.153.65.122   # CN China                         
+123.249.13.197  # CN China                         
+222.186.173.47  # CN China                         
+123.249.24.206  # CN China                         
+61.147.75.39    # CN China                         
+58.218.200.3    # CN China                         
+117.12.197.229  # CN China                         
+222.186.58.150  # CN China                         
+183.61.171.194  # CN China                         
+180.97.220.35   # CN China                         
+125.64.94.201   # CN China                         
+123.249.79.250  # CN China                         
+101.254.149.136 # CN China                         
+14.134.19.1     # CN China                         
+95.47.180.56    # CZ Czech Republic                
+151.106.13.158  # DE Germany                       
+5.28.212.226    # DE Germany                       
+81.7.16.178     # DE Germany                       
+89.163.206.181  # DE Germany                       
+191.100.9.252   # EC Ecuador                       
+191.100.11.15   # EC Ecuador                       
+41.39.115.132   # EG Egypt                         
+41.39.99.139    # EG Egypt                         
+145.239.140.193 # FR France                        
+62.210.204.58   # FR France                        
+149.202.75.152  # FR France                        
+185.12.179.4    # FR France                        
+212.83.191.158  # FR France                        
+113.252.111.146 # HK Hong Kong                     
+183.91.68.147   # ID Indonesia                     
+125.160.115.86  # ID Indonesia                     
+103.11.99.114   # ID Indonesia                     
+80.178.202.253  # IL Israel                        
+182.156.248.210 # IN India                         
+203.109.106.167 # IN India                         
+103.4.249.58    # IN India                         
+103.51.28.137   # IN India                         
+93.46.115.251   # IT Italy                         
+79.7.69.221     # IT Italy                         
+160.16.122.16   # JP Japan                         
+212.49.95.202   # KE Kenya                         
+223.28.184.186  # KR Korea Republic of             
+132.248.20.75   # MX Mexico                        
+37.48.80.140    # NL Netherlands                   
+46.166.139.181  # NL Netherlands                   
+139.162.108.129 # NL Netherlands                   
+89.38.99.33     # NL Netherlands                   
+209.45.45.102   # PE Peru                          
+39.32.64.244    # PK Pakistan                      
+91.190.180.224  # RU Russian Federation            
+93.92.223.107   # RU Russian Federation            
+95.68.222.238   # RU Russian Federation            
+185.143.220.13  # RU Russian Federation            
+178.204.114.105 # RU Russian Federation            
+5.188.9.25      # RU Russian Federation            
+46.17.46.71     # RU Russian Federation            
+5.188.86.141    # RU Russian Federation            
+5.188.11.63     # RU Russian Federation            
+77.72.85.15     # RU Russian Federation            
+185.22.152.250  # RU Russian Federation            
+5.188.11.212    # RU Russian Federation            
+188.68.96.169   # RU Russian Federation            
+88.255.50.199   # TR Turkey                        
+212.156.86.78   # TR Turkey                        
+88.255.228.25   # TR Turkey                        
+114.37.96.218   # TW Taiwan; Republic of China (ROC) 
+123.195.214.28  # TW Taiwan; Republic of China (ROC) 
+111.240.57.39   # TW Taiwan; Republic of China (ROC) 
+114.37.13.132   # TW Taiwan; Republic of China (ROC) 
+91.217.60.133   # UA Ukraine                       
+212.109.49.250  # UA Ukraine                       
+217.147.169.188 # UA Ukraine                       
+109.108.241.35  # UA Ukraine                       
+77.52.37.188    # UA Ukraine                       
+107.170.228.248 # US United States                 
+107.172.221.121 # US United States                 
+207.246.70.125  # US United States                 
+107.170.237.164 # US United States                 
+45.77.115.154   # US United States                 
+24.227.60.150   # US United States                 
+107.170.232.114 # US United States                 
+159.182.1.4     # US United States                 
+162.144.197.248 # US United States                 
+64.132.221.195  # US United States                 
+65.190.240.29   # US United States                 
+184.105.247.252 # US United States                 
+52.51.159.43    # US United States                 
+73.99.89.55     # US United States                 
+184.105.139.118 # US United States                 
+107.223.154.132 # US United States                 
+162.243.146.235 # US United States                 
+35.185.44.116   # US United States                 
+107.170.213.23  # US United States                 
+104.154.88.60   # US United States                 
+104.236.163.115 # US United States                 
+23.99.122.165   # US United States                 
+35.196.171.92   # US United States                 
+45.63.106.116   # US United States                 
+71.6.146.186    # US United States                 
+13.65.28.197    # US United States                 
+74.82.47.3      # US United States                 
+184.105.247.196 # US United States                 
+168.235.105.151 # US United States                 
+190.201.30.106  # VE Venezuela                     
+200.93.112.108  # VE Venezuela                     
+201.243.57.251  # VE Venezuela                     
+190.39.78.239   # VE Venezuela                     
+190.202.236.130 # VE Venezuela                     
+116.100.240.30  # VN Viet Nam                      
+171.233.155.252 # VN Viet Nam                      
+116.100.212.22  # VN Viet Nam                      
+196.52.43.63    # ZA South Africa 
