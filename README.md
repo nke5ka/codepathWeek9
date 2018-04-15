@@ -13,6 +13,7 @@ No samples of payloads were found, but the 129 unique attack ips provide some in
 * ipCountry.txt - the 129 unique IP addresses and their countries of origin using http://software77.net/geo-ip/multi-lookup/
 
 Here are the countries of attack origin and corresponding frequency of countries with more than one attack
+
 | Country       | Frequency |
 |---------------|-----------|
 | United States |        29 |
